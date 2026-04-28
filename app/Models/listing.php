@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Watch extends Model
+class listing extends Model
 {
-    protected $guarded = [];
+    //
 }
